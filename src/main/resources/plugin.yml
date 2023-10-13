@@ -1,0 +1,8 @@
+name: Magic
+version: '${project.version}'
+main: xyz.kiradev.magic.Magic
+description: Bow Boost Practice plugin
+commands:
+  setminY:
+  setspawn:
+  start:
